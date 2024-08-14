@@ -1,0 +1,26 @@
+[
+    {
+        "produk" : "produk 1",
+        "kategori" : "mesin cuci1",
+        "deskripsi" : "lorem ipsum dolor sit amet 1",
+        "images" : ""
+    },
+    {
+        "produk" : "produk 2",
+        "kategori" : "mesin cuci2",
+        "deskripsi" : "lorem ipsum dolor sit amet 2",
+        "images" : ""
+    },
+    {
+        "produk" : "produk 3",
+        "kategori" : "pengering 1",
+        "deskripsi" : "lorem ipsum dolor sit amet 3",
+        "images" : ""
+    },
+    {
+        "produk" : "produk 4",
+        "kategori" : "pengering 2",
+        "deskripsi" : "lorem ipsum dolor sit amet 4",
+        "images" : ""
+    }
+]

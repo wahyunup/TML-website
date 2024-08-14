@@ -1,0 +1,38 @@
+body{
+    
+}
+
+.wrapper{
+    height: 10000px;
+}
+
+.jumbotron{
+    background-image: url('https://img.freepik.com/free-photo/woman-taking-clothes-from-washing-machine_23-2149117037.jpg?t=st=1723546684~exp=1723550284~hmac=45fc63cd130eea40494035efcc5b179d79f623526fb7c97089a1c307d69e6db9&w=1380');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white ;
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    border: none;
+}
+
+.navProduct button:hover{
+    cursor: pointer;
+    background-color: black;
+}
+
+.navProduct button{
+    background-color: transparent;
+    padding: 5px 12px;
+    border-radius: 0;
+    color: black;
+}
+
+.active{
+    border-bottom:  2px solid;
+    font-weight: 500;
+}
