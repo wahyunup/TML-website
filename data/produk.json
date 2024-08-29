@@ -1,26 +1,75 @@
 [
     {
-        "produk" : "produk 1",
-        "kategori" : "mesin cuci1",
-        "deskripsi" : "lorem ipsum dolor sit amet 1",
-        "images" : ""
+      "condition": "Baru",
+      "categories": "mesin pengering",
+      "image": "https://www.electrolux.co.id/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FV0Y4MDA1RVFXQV9JRHYyXzcwMHg3MDAucG5n&hmac=4LVUAumSNk0",
+      "merk": "Electrolux",
+      "name": "Mesin cuci pengering UltimateCare 500 10kg/7kg",
+      "specifications": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi."
+      ]
     },
     {
-        "produk" : "produk 2",
-        "kategori" : "mesin cuci2",
-        "deskripsi" : "lorem ipsum dolor sit amet 2",
-        "images" : ""
+      "condition": "Bekas",
+      "categories": "mesin pengering",
+      "image": "asset/image/mesin pengering bersusun speedqueen.png",
+      "merk": "SpeedQueen",
+      "name": "Mesin Cuci Pengering Susun",
+      "specifications": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi."
+      ]
     },
     {
-        "produk" : "produk 3",
-        "kategori" : "pengering 1",
-        "deskripsi" : "lorem ipsum dolor sit amet 3",
-        "images" : ""
+      "condition": "Baru",
+      "categories": "mesin pengering",
+      "image": "https://www.electrolux.co.id/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FV0Y4MDA1RVFXQV9JRHYyXzcwMHg3MDAucG5n&hmac=4LVUAumSNk0",
+      "merk": "Electrolux",
+      "name": "Mesin cuci pengering UltimateCare 500 10kg/7kg",
+      "specifications": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi."
+      ]
     },
     {
-        "produk" : "produk 4",
-        "kategori" : "pengering 2",
-        "deskripsi" : "lorem ipsum dolor sit amet 4",
-        "images" : ""
+      "condition": "Baru",
+      "categories": "mesin pengering",
+      "image": "https://www.electrolux.co.id/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FV0Y4MDA1RVFXQV9JRHYyXzcwMHg3MDAucG5n&hmac=4LVUAumSNk0",
+      "merk": "Electrolux",
+      "name": "Mesin cuci pengering UltimateCare 500 10kg/7kg",
+      "specifications": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi."
+      ]
+    },
+    {
+      "condition": "Baru",
+      "categories": "mesin pengering",
+      "image": "https://www.electrolux.co.id/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FV0Y4MDA1RVFXQV9JRHYyXzcwMHg3MDAucG5n&hmac=4LVUAumSNk0",
+      "merk": "Electrolux",
+      "name": "Mesin cuci pengering UltimateCare 500 10kg/7kg",
+      "specifications": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi."
+      ]
+    },
+    {
+      "condition": "Baru",
+      "categories": "mesin pengering",
+      "image": "https://www.electrolux.co.id/remote.jpg.ashx?urlb64=aHR0cHM6Ly93d3cuZWxlY3Ryb2x1eC5pbS9wcm9kdWN0cy9YTUxMQVJHRVJJTUFHRS9FV0Y4MDA1RVFXQV9JRHYyXzcwMHg3MDAucG5n&hmac=4LVUAumSNk0",
+      "merk": "Electrolux",
+      "name": "Mesin cuci pengering UltimateCare 500 10kg/7kg",
+      "specifications": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi.",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, quasi."
+      ]
     }
-]
+  ]
+  
